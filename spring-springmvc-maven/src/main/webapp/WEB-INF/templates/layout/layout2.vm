@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>$!page_title</title>
+    #parse("header.vm")
+</head>
+<body>
+
+<div>
+
+    $screen_content
+我是布局22222222
+</div>
+
+</body>
+</html>

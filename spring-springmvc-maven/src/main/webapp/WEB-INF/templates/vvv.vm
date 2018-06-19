@@ -1,0 +1,4 @@
+#set($layout = "/layout/layout2.vm")
+${big.indexOf("JPG")}
+${big.toLowerCase().indexOf("jpg")}<br>
+${big.toLowerCase().endsWith("jpg")}
